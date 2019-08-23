@@ -1,0 +1,13 @@
+name: 'kuntafibase blog'
+type: module
+description: 'Basic multiauthor blog'
+core: 8.x
+package: kuntafibase
+dependencies:
+  - ajax_comments
+  - comment
+  - content_translation
+  - field
+  - language
+  - simple_sitemap
+  - text
